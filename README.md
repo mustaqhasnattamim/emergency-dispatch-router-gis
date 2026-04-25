@@ -22,7 +22,7 @@ The accuracy of any routing engine depends entirely on its base map.
 
 ---
 
-## ⚙️ Core Mechanisms (The "Secret Sauce")
+## ⚙️ Core Mechanisms
 AegisPath isn't just a simple pathfinder; it includes professional GIS logic to ensure reliability in the field:
 
 * **Automated Coordinate Projection:** The engine accepts raw **WGS84 (EPSG: 4326)** coordinates from mobile devices and automatically projects them into the local projected coordinate system of the road network to prevent spatial displacement errors.
@@ -40,7 +40,7 @@ AegisPath isn't just a simple pathfinder; it includes professional GIS logic to 
 
 ---
 
-## 🚀 How to Use (Dispatchers)
+## 🚀 How to Use 
 1. **Input Coordinates:** Enter the Longitude (X) and Latitude (Y) provided by the 999 caller.
 2. **Select Facility:** Choose between Police Stations or Health Centers.
 3. **Execute:** The tool snaps the point to the LGED-verified network and generates a neon-highlighted route.
@@ -54,6 +54,16 @@ AegisPath isn't just a simple pathfinder; it includes professional GIS logic to 
 * **Traffic:** Currently, the system uses static distance impedance. Future iterations plan to integrate travel-time decay based on road surface types (Paved vs. Kacha).
 
 ---
+
+##  Screenshots
+<img width="1920" height="1040" alt="Screenshot 2026-04-25 105937" src="https://github.com/user-attachments/assets/d43c29ad-57a9-4b28-a69a-6c45985539ab" />
+<img width="1920" height="1040" alt="Screenshot 2026-04-25 110003" src="https://github.com/user-attachments/assets/391a0061-49b0-412b-8ba2-ef19712b38b2" />
+<img width="1920" height="1040" alt="Screenshot 2026-04-25 110110" src="https://github.com/user-attachments/assets/78259d15-852c-412c-8d53-ebe6118b4392" />
+<img width="1920" height="1040" alt="Screenshot 2026-04-25 110141" src="https://github.com/user-attachments/assets/03bea589-e0e7-4b10-bf75-93624e18dbd4" />
+
+
+##  Screenshots
+
 
 ## 📧 Contact & Support
 **Mustaq Hasnat Tamim** *Undergraduate Student* Department of Environmental Science and Geography  
