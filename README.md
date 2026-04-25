@@ -62,12 +62,11 @@ AegisPath isn't just a simple pathfinder; it includes professional GIS logic to 
 <img width="1920" height="1040" alt="Screenshot 2026-04-25 110141" src="https://github.com/user-attachments/assets/03bea589-e0e7-4b10-bf75-93624e18dbd4" />
 
 
-##  Screenshots
 
 
 ## 📧 Contact & Support
-**Mustaq Hasnat Tamim** *Undergraduate Student* Department of Environmental Science and Geography  
-Islamic University, Bangladesh  
+**M. H. Tamim** *Undergraduate Student* Department of Environmental Science and Geography  
+Islamic University Bangladesh  
 
 📩 **Email:** [m.h.tamim.esg@std.iu.ac.bd](mailto:m.h.tamim.esg@std.iu.ac.bd)  
 🔗 **LinkedIn:**   https://linkedin.com/in/mustaqhasnattamim
